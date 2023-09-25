@@ -28,8 +28,8 @@ Throughout the lab, pay close attention to timestamps, command syntax, and any a
 
 Remember, this lab is designed to enhance your skills in incident response and analysis. It will provide you with hands-on experience in investigating a compromised Linux host and understanding the tactics employed by adversaries. Good luck, and enjoy the challenge!
 
-# Welcome to the "Breached Part II - Adversary Move to Windows!" lab.
-
+# Breached Part II - Adversary Move to Windows!
+ 
 In this lab, you will continue your investigation as the adversary expands their intrusion into a Windows host on the same network. Your mission is to detect and analyze the activities carried out by the attacker on the compromised Windows machine.
 
 The lab comprises three challenges, each focusing on a specific aspect of the attacker's actions:
