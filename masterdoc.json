@@ -8,15 +8,5 @@
         "Order": 1
       }
     ]
-  },
-    {
-    "Name": "RTL",
-    "language": "English",
-    "Files": [
-      {
-        "RawFilePath": "https://raw.githubusercontent.com/infosec-4tc/Cyber-Security-Labs/main/rtl.md",
-        "Order": 1
-      }
-    ]
   }
 ]
